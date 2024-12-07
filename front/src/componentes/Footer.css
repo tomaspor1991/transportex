@@ -1,0 +1,9 @@
+footer .p{
+    background-color: rgb(135, 135, 135);
+    text-align: center;
+    color: rgb(34, 33, 33);
+    padding-top: 10px 0;
+    font-size: 18px;
+    clear: both;
+    margin-top: 20px;
+}

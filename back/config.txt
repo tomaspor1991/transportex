@@ -1,0 +1,5 @@
+JAWSDB_URL:     mysql://rbpucu2y6n2gq420:p5913eoiwm8kqbl0@nwhazdrp7hdpd4a4.cbetxkdyhwsb.us-east-1.rds.amazonaws.com/kngwfrl7wgpxab23
+DB name: kngwfrl7wgpxab23 
+Host: nwhazdrp7hdpd4a4.cbetxkdyhwsb.us-east-1.rds.amazonaws.com 
+Password: p5913eoiwm8kqbl0 
+User: rbpucu2y6n2gq420 
